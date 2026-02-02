@@ -1,1 +1,23 @@
-
+[
+  {
+    "document_id": "TR-001",
+    "discipline": "Electrical",
+    "status": "Approved",
+    "submission_date": "2025-01-05",
+    "approval_date": "2025-01-10"
+  },
+  {
+    "document_id": "TR-002",
+    "discipline": "Civil",
+    "status": "Pending",
+    "submission_date": "2025-01-12",
+    "approval_date": null
+  },
+  {
+    "document_id": "TR-003",
+    "discipline": "Mechanical",
+    "status": "Rejected",
+    "submission_date": "2025-01-08",
+    "approval_date": "2025-01-15"
+  }
+]
